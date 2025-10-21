@@ -14,7 +14,7 @@ You can play the live, deployed version of the game here:
 
 ## Screenshot
 
-![Simon Game Screenshot](./Simon-ScreenShot.png)
+(./Simon-ScreenShot.png)
 
 ---
 
@@ -46,7 +46,7 @@ This project is a static website and requires no special build steps.
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [Simon-Says-Game]
+    cd Simon-Says-Game
     ```
 
 3.  **Open the application:**
