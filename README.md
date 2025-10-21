@@ -40,13 +40,13 @@ This project is a static website and requires no special build steps.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/arshalik1111-design](https://github.com/Simon-Says-Game).git
+    git clone https://github.com/arshalik1111-design/Simon-Says-Game.git
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [Simon-Says-Game]
+    cd Simon-Says-Game
     ```
 
 3.  **Open the application:**
