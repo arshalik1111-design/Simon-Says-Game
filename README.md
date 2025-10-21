@@ -14,7 +14,7 @@ You can play the live, deployed version of the game here:
 
 ## Screenshot
 
-(./Simon-ScreenShot.png)
+![Simon Game Screenshot](./Simon-ScreenShot.png)
 
 ---
 
