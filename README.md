@@ -8,7 +8,7 @@ A modern, responsive implementation of the classic "Simon Says" memory game. Thi
 
 You can play the live, deployed version of the game here:
 
-**[https://arsh-simon-game.netlify.app/]**
+**https://arsh-simon-game.netlify.app/**
 
 ---
 
